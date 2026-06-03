@@ -10,7 +10,7 @@ Although I do not have professional IT experience yet, this project shows my pra
 ## Project Goal
 
 This project shows my ability to:
-- Understand with tasks  
+- IT support tasks  
 - Follow troubleshooting steps  
 - Fix common computer, network, and hardware problems  
 - Learn IT support skills through practice  
