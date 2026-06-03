@@ -10,7 +10,7 @@ Although I do not have professional IT experience yet, this project shows my pra
 ## Project Goal
 
 This project shows my ability to:
-- Understand basic Help Desk tasks  
+- Understand with tasks  
 - Follow troubleshooting steps  
 - Fix common computer, network, and hardware problems  
 - Learn IT support skills through practice  
@@ -195,7 +195,7 @@ New user account worked correctly after setup.
 
 ## Goal
 
-My goal is to start a career in IT Support or Help Desk in Houston, gain real experience, and continue growing in the IT field.
+My goal is to start a career in IT Support in Houston, gain real experience, and continue growing in the IT field.
 
 
 ## Status
